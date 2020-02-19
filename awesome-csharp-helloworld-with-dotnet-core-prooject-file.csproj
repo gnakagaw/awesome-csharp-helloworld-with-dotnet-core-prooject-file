@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>awesome_csharp_helloworld_with_dotnet_core_prooject_file</RootNamespace>
+  </PropertyGroup>
+
+</Project>
